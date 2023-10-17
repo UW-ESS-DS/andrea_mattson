@@ -1,5 +1,5 @@
 # Andrea Mattson's Repository
-Andrea's repository for MLGeo Fall 2023
+Andrea's repository for MLGeo Fall 2023\
 [This is a link to the class github MLGeo-2023](https://github.com/UW-ESS-DS/MLGeo-2023)
 
 ### My Favorite Geoscinece Topics
